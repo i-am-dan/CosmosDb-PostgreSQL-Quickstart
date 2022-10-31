@@ -26,7 +26,6 @@ app.get('/', (req, res) => {
 
 // Create Table
 app.post('/', (req, res) => {
-  console.log("hihihihihi")
   operation.createTable()
   .then(response => {
     return res.status;
