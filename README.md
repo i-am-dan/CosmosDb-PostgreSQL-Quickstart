@@ -13,9 +13,6 @@ This contains the UI code.
 ## `Server` folder
 This contains the backend server code to interact with CosmosDB for PostgreSQL
 
-## `Infrastructure` folder
-This folder template file that will deploy all the Azure services (CosmosDB for PostgreSQL, KeyVault, Web apps for Frontend and Backend) necessary to get up and running!
-
 ## **Locally** - Getting Started
 1. Run `npm install` in both the `React` and `Server` folder.
 1. Then `npm start` inside the `React` folder.
